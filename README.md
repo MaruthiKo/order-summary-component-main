@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![![Alt text](design/desktop-design.jpg)](./screenshot.jpg)
+![proof of work](design/desktop-design.jpg)
 
 
 ### Links
