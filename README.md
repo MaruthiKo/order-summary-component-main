@@ -18,8 +18,8 @@
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### Screenshot
+![desktop-design](https://user-images.githubusercontent.com/63769209/214918243-9d9731ab-e89f-4339-bd35-de8297527b81.jpg)
 
-![proof of work](design/desktop-design.jpg)
 
 
 ### Links
